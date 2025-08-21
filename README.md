@@ -13,4 +13,4 @@ Ce dépôt contient les travaux réalisés dans le cadre d’un travail de bache
 
 ## Contexte
 
-Ce dépôt a été développé dans le cadre d’un travail de bachelor portant sur la transfusion sanguine et l’interopérabilité des systèmes de santé. Chaque sous-projet peut être utilisé et testé indépendamment.
+Ce dépôt a été développé dans le cadre d’un travail de bachelor portant sur la transfusion sanguine et l’interopérabilité des systèmes de santé. Chaque sous-projet peut être utilisé et testé indépendamment
